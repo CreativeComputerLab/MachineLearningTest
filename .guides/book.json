@@ -1,0 +1,17 @@
+{
+ "name": "IOT-MachineLearning-v1",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "16748329-8e6a-0bb3-2b13-cf787922b6ab",
+   "pageId": "16748329-8e6a-0bb3-2b13-cf787922b6ab",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "dfa425f7-52f4-4798-db48-751c4928a560",
+   "pageId": "dfa425f7-52f4-4798-db48-751c4928a560",
+   "type": "page"
+  }
+ ]
+}
